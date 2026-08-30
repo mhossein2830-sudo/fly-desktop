@@ -1,0 +1,11 @@
+app = "mhrf9246-desktop-2026"
+primary_region = "fra"
+
+[build]
+
+[env]
+
+[[vm]]
+  memory = "1024mb"
+  cpu_kind = "shared"
+  cpus = 1
